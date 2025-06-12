@@ -1,3 +1,4 @@
 # MineProject
-This is my first Git Repository
-Author-Shrutee singh
+This is my first Git Repository.
+<br>
+Author-Shrutee (MYPROJECT)
